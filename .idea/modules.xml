@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Homeworks/Homeworks.iml" filepath="$PROJECT_DIR$/Homeworks/Homeworks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Projector_HTML_CSS.iml" filepath="$PROJECT_DIR$/Projector_HTML_CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projector_HTML_CSS_Korolyov.iml" filepath="$PROJECT_DIR$/Projector_HTML_CSS_Korolyov.iml" />
     </modules>
   </component>
 </project>
